@@ -15,6 +15,7 @@ fun main() {
 
     // calling a function in a file from another package
     greet()
+    
     // calling a function with a param
     greet("Ciao!")
 

@@ -3,6 +3,3 @@ plugins {
 }
 rootProject.name = "kotlin-pg"
 include("basics")
-include("basics")
-include("basics")
-include("basics")
