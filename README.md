@@ -12,4 +12,6 @@ The project is structured in modules. Every module contains a specific concept o
 
 ## Why it might be helpful to you too?
 
-For me this project will be a playground, where I test new concepts as I learn them. It will also be a reference for Kotlin syntax, features, idioms etc.
+For me, this project is a playground where I experiment with new Kotlin concepts as I learn them. It’s also a handy reference for syntax, features, and idioms. Since I won’t be focused on my side project exclusively, I’ll use this repository to track my progress and refresh my knowledge.
+
+If you’re coming from a similar Java background and are curious about Kotlin, you might find this useful too. I’d be glad to get tips from experienced Kotlin developers on which concepts to focus on. Feedback is welcome — whether it’s about the structure, examples, or anything else that could make this repository more helpful. Even a quick comment would make my day!
