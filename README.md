@@ -4,7 +4,7 @@ This project contains examples and concepts of the Kotlin language which I docum
 
 ## Background
 
-The best way to learn a new programming language is through side projects. A couple of months ago I started a new project – [Rainy Day Post](https://www.rainydaypost.tech) – and for it I chose to explore Kotlin. As a long-time Java developer (15+ years now), I decided to follow a more systematic approach to learning other languages.
+The best way to learn a new programming language is through side projects. A couple of months ago I started a new project – [Rainy Day Post](https://www.rainydaypost.tech) – and for it I chose to explore Kotlin. As a long-time Java developer (15+ years now), I decided to follow a more pragmatic approach to learning this new language. Instead of reading a book that includes everything about Kotlin, I'll learn first and foremost only the features of the lanaguage needed for the specific app I'm building.
 
 ## Structure
 
